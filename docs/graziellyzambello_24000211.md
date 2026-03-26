@@ -121,8 +121,9 @@ Casos considerados no sistema:
 * Validar Receita estende Realizar Venda
 * Registrar Cliente estende Realizar Venda
 * Gerar Contas a Receber estende Finalizar Venda
+  
+<img width="919" height="418" alt="image" src="https://github.com/user-attachments/assets/2540816b-1a4b-4a28-8f59-d8877a293730" />
 
-📌 Inserir aqui o diagrama de casos de uso.
 
 ---
 
