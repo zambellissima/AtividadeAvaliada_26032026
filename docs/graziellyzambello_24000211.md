@@ -44,10 +44,15 @@ Escolhi esse recorte porque a venda é o processo mais importante da farmácia. 
 # 2. Regras de Negócio
 
 **RN01 —** Não é permitido vender produtos sem estoque.
+
 **RN02 —** Toda venda deve atualizar o estoque automaticamente.
+
 **RN03 —** Vendas a prazo devem gerar contas a receber.
+
 **RN04 —** Para vender a prazo, o cliente precisa estar cadastrado.
+
 **RN05 —** Produtos controlados precisam de validação do farmacêutico.
+
 **RN06 —** O sistema deve avisar quando o estoque estiver baixo.
 
 ---
@@ -55,13 +60,21 @@ Escolhi esse recorte porque a venda é o processo mais importante da farmácia. 
 # 3. Requisitos Funcionais
 
 **RF01 —** Cadastrar clientes
+
 **RF02 —** Consultar clientes
+
 **RF03 —** Consultar produtos
+
 **RF04 —** Verificar estoque
+
 **RF05 —** Realizar venda
+
 **RF06 —** Finalizar venda
+
 **RF07 —** Gerar contas a receber
+
 **RF08 —** Emitir comprovante
+
 **RF09 —** Validar receita
 
 ---
@@ -69,9 +82,13 @@ Escolhi esse recorte porque a venda é o processo mais importante da farmácia. 
 # 🛡 4. Requisitos Não Funcionais
 
 **RNF01 —** O sistema deve estar disponível na maior parte do tempo (mínimo 99%).
+
 **RNF02 —** As operações devem ser rápidas (até 2 segundos).
+
 **RNF03 —** Deve haver login e controle de acesso.
+
 **RNF04 —** Os dados não podem ficar inconsistentes.
+
 **RNF05 —** A interface deve ser fácil de usar.
 
 ---
