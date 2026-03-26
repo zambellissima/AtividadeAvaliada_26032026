@@ -159,7 +159,8 @@ Casos considerados no sistema:
 * Include: Consultar Produto, Finalizar Venda
 * Extend: Validar Receita
 
-📌 Inserir diagrama de atividade
+<img width="319" height="821" alt="image" src="https://github.com/user-attachments/assets/7353b2f8-6baa-4f94-881c-ace1e2d46231" />
+
 
 ---
 
@@ -172,6 +173,9 @@ Casos considerados no sistema:
 1. Informar dados
 2. Salvar cadastro
 
+<img width="176" height="191" alt="image" src="https://github.com/user-attachments/assets/f2800dec-32d7-40f0-9180-88d84eed8830" />
+
+
 ---
 
 ## UC03 — Consultar Produto
@@ -182,6 +186,9 @@ Casos considerados no sistema:
 
 1. Buscar produto
 2. Exibir resultado
+
+<img width="122" height="193" alt="image" src="https://github.com/user-attachments/assets/8acb88ca-d077-46dc-8612-fe2c9fdefd94" />
+
 
 ---
 
@@ -194,6 +201,9 @@ Casos considerados no sistema:
 1. Analisar receita
 2. Aprovar ou reprovar
 
+<img width="200" height="252" alt="image" src="https://github.com/user-attachments/assets/bb84f41e-f596-4a57-9335-c12b1d85e156" />
+
+
 ---
 
 ## UC05 — Finalizar Venda
@@ -205,6 +215,9 @@ Casos considerados no sistema:
 1. Escolher pagamento
 2. Confirmar venda
 
+<img width="208" height="447" alt="image" src="https://github.com/user-attachments/assets/b510228a-fa09-4f13-8131-7872c6d426a1" />
+
+
 ---
 
 ## UC06 — Atualizar Estoque
@@ -214,6 +227,9 @@ Casos considerados no sistema:
 ### Fluxo Principal
 
 1. Atualizar quantidade
+
+<img width="266" height="166" alt="image" src="https://github.com/user-attachments/assets/111b16f7-123d-42d8-ad35-7a0529d389fa" />
+
 
 ---
 
@@ -225,6 +241,9 @@ Casos considerados no sistema:
 
 1. Registrar valor
 
+<img width="210" height="166" alt="image" src="https://github.com/user-attachments/assets/6e803f93-8e6b-4b4a-9d31-65d30692d50e" />
+
+
 ---
 
 ## UC08 — Emitir Comprovante
@@ -234,6 +253,9 @@ Casos considerados no sistema:
 ### Fluxo Principal
 
 1. Gerar comprovante
+
+<img width="200" height="138" alt="image" src="https://github.com/user-attachments/assets/29d30e6f-4ed5-4d64-90a1-734ea51d4b2f" />
+
 
 ---
 
@@ -245,6 +267,9 @@ Casos considerados no sistema:
 
 1. Consultar estoque
 
+<img width="206" height="138" alt="image" src="https://github.com/user-attachments/assets/50d35a66-50d0-4203-99e6-8be1743313b4" />
+
+
 ---
 
 ## UC10 — Autenticar Usuário
@@ -255,5 +280,8 @@ Casos considerados no sistema:
 
 1. Inserir login
 2. Acessar sistema
+
+<img width="241" height="312" alt="image" src="https://github.com/user-attachments/assets/af471b38-35b1-42c9-b288-84e892a19f28" />
+
 
 ---
