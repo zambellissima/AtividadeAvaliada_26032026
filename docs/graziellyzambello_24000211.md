@@ -133,8 +133,11 @@ Casos considerados no sistema:
 ## UC01 — Realizar Venda
 
 **Ator:** Atendente
+
 **Descrição:** Processo de venda de produtos ao cliente.
+
 **Pré-condição:** Usuário logado no sistema.
+
 **Pós-condição:** Venda registrada.
 
 ### Fluxo Principal
